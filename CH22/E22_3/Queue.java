@@ -1,4 +1,4 @@
-package CH22;
+package CH22.E22_3;
 
 import java.util.LinkedList;
 import java.util.concurrent.locks.Condition;

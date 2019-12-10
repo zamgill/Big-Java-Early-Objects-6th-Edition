@@ -1,4 +1,4 @@
-package CH22;
+package CH22.E22_3;
 
 public class QueueRemoveRunnable implements Runnable {
     private static final int DELAY = 1000;

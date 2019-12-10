@@ -1,4 +1,4 @@
-package CH22;
+package CH22.E22_3;
 
 public class QueueDemo {
     public static void main(String[] args) {
